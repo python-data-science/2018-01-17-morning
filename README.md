@@ -10,7 +10,7 @@
 - Send a pull request
 
 ### The Data
-https://github.com/gSchool/dsi-logistic-regression/blob/master/data/grad.csv
+- `grad.csv` is in this repository
 
 ### The Problem
 The data we will be using is admission data on Grad school acceptances.
