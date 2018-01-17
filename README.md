@@ -24,7 +24,7 @@ We will use the GPA, GRE, and rank of the applicants to try to predict whether o
 
 Before we get to predictions, we should do some data exploration.
 
-1. Load in the dataset into pandas: `data/grad.csv`.
+1. Load in the dataset into pandas: `grad.csv`.
 
 2. Use the pandas `describe` method to get some preliminary summary statistics on the data. In particular look at the mean values of the features.
 
